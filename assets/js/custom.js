@@ -55,9 +55,14 @@
     filter();
   });
 
+  $(document).ready(function() {
 
+    $('a[href=#section5]').click(function(){
+        $('html, body').animate({scrollTop:0}, 'slow');
+        return false;
+    });
 
-
+});
 
 
 })(jQuery);
