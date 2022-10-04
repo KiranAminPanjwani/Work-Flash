@@ -743,3 +743,15 @@ section.contact-me {
     margin-bottom: 20px;
   }
 }
+
+.up-arrow-bottom{
+width: 5%;
+position : relative;
+left : 90%;
+}
+
+.up-arrow-navbar{
+  width: 15%;
+  position : relative;
+right: 35%;
+}
