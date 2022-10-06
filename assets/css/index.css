@@ -615,6 +615,43 @@ section.contact-me {
 }
 
 
+.footer{
+  text-align: center;
+  justify-content: center;
+  margin-left: 25%;
+}
+
+.footer .social-network ul li {
+  margin: 0 3px;
+}
+
+.footer .social-network ul li a {
+  display: inline-block;
+  text-align: center;
+  line-height: 40px;
+  background-color: rgba(0, 0, 0, 0.2);
+  color: white;
+  font-size: 25px;
+  transition: all 0.5s;
+}
+
+.footer .social-network ul li a:hover {
+  background-color: #fff;
+  color: #d01f2e;
+}
+
+.footer .copyright-text {
+  position: relative;
+  margin-top: 30px;
+}
+
+.footer .copyright-text p {
+  display: inline-block;
+  padding-left: 1%;
+  width: 100%;
+  font-size: 13px;
+}
+
 
 @media screen and (max-width: 1680px) {
   .menu {
@@ -741,5 +778,25 @@ section.contact-me {
   }
   .isotope-toolbar {
     margin-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 1680px) and (min-width: 846px) {
+  .footer .social-network ul li a {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+  }
+
+  .footer .social-network ul li {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 846px) {
+  .footer{
+    text-align: center;
+    justify-content: center;
+    margin-left: 0;
   }
 }
