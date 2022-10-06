@@ -9,7 +9,11 @@
   <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" />
 
   <title>Work Flash</title>
-  
+
+
+  <!-- Button icon -->
+  <script src="https://use.fontawesome.com/8d9c4a3c5b.js"></script>
+
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
@@ -66,7 +70,7 @@
     <div class="jumbotron">
       <div class="container text-center mt-5 pt-5">
         <h4 class="shineWelcome">Welcome <span>To</span></h4>
-        <h4 class="shineWhite">W<img src="/assets/images/WORLDimage-removebg-preview.png" alt="">rk Flash</h4>
+        <h4 class="shineWhite">W<img style='padding-bottom: 17px;' src="/assets/images/WORLDimage-removebg-preview.png" alt="">rk Flash</h4>
         <h4 class="tagline">Showcase Your Amazing Landing Pages And Projects To The World</h4>
       </div>
     </div>
@@ -74,7 +78,9 @@
 
     <div class=" section" style="margin-bottom: 90px;" data-section="section1">
       <div class="container text-center">
-
+        <!--Button to top-->
+        <button onclick="topFunction()" id="buttonToTop" title="Go to top"><i class="fa fa-arrow-up" aria-hidden="true"></i></button>
+         
         <section class="aboutus container-fluid">
           <div class="container pt-5">
             <div class="row">
@@ -247,6 +253,32 @@
           </div>
 
 
+          <!-- Contributions # 3 -->
+          <div class="left-image-post">
+            <div class="horizontalLine"></div>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image">
+                  <img src="assets/images/NFTMarketplaceWebsite.png" alt="" />
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <h4>NFT Marketplace Website</h4>
+                  <p>
+                    The NFT Marketplace website is a website for selling NFTs. This project is a design
+                    template for an NFT Marketplace, built with React & Tailwind CSS.
+                  </p>
+                  <h6 class="contributorName">Contributed By: <span class="yourName">Hassan Hanif</span></h6>
+                  <div class="white-button">
+                    <a href="https://github.com/hassancodess/nft-marketplace" target="_blank">Visit
+                      Project</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
           <!-- Add you latest contribution HERE -->
 
 
@@ -355,7 +387,13 @@
       });
     });
   </script>
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+
+
+  
+
+<!--   <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script> -->
+
+
   <script src="assets/js/lib/counterup/counterup.min.js"></script>
 
   <script>

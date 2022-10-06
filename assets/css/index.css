@@ -781,6 +781,7 @@ section.contact-me {
   }
 }
 
+
 @media screen and (max-width: 1680px) and (min-width: 846px) {
   .footer .social-network ul li a {
     width: 36px;
@@ -800,3 +801,26 @@ section.contact-me {
     margin-left: 0;
   }
 }
+
+/*Button to top */
+#buttonToTop {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed position */
+  bottom: 20px; 
+  right: 30px;
+  z-index: 99; /* not overlap with page content */
+  border: none; 
+  outline: none; 
+  background-color: rgba(255, 255, 255, 0.76); 
+  cursor: pointer; 
+  padding: 15px; 
+  border-radius: 10px; 
+  font-size: 18px; 
+}
+
+#buttonToTop:hover {
+  background-color: rgba(241, 232, 232, 0.295);
+  color: rgb(177, 17, 17); 
+}
+/* End Button to top*/
+
