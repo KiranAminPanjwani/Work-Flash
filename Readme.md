@@ -10,7 +10,7 @@ You can add your project or landing pages to **_Work Flash_** by **_appending_**
 Also, anyone is welcome to add a new **_feature_** to this website. _Examples_ include the "<ins>Login-in page</ins>", "<ins>Sign-up page</ins>", "<ins>Search Project</ins>"  feature, "<ins>Load More Projects</ins>" feature, "<ins>Add suggestion to project</ins>" option, "<ins>send message</ins>" functionality, and many more.
 
 <div align="center">
-<h2> Click Button to view Website</h2>
+	<h2> Click the 👇Globe to visit the website </h2>
 <a href="https://workflash.netlify.app/" align="center"><img src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/60/FA5252/external-earth-space-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/></a>
 </div>
 
