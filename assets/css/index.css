@@ -10,6 +10,9 @@ Work Flash
 body {
   font-family: "Lato", sans-serif;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 #page-wraper {
   background: url(../images/page-bg.jpg) no-repeat center center fixed;
