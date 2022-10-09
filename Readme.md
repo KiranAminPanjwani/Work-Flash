@@ -11,7 +11,7 @@ Also, anyone is welcome to add a new **_feature_** to this website. _Examples_ i
 
 <div align="center">
 <h2> Click Button to view Website</h2>
-<a href="https://workflash.netlify.app/" align="center"><img src="https://img.icons8.com/tiny-color/48/000000/near-me.png"/></a>
+<a href="https://workflash.netlify.app/" align="center"><img src="https://img.icons8.com/external-vitaliy-gorbachev-fill-vitaly-gorbachev/60/FA5252/external-earth-space-vitaliy-gorbachev-fill-vitaly-gorbachev.png"/></a>
 </div>
 
 
