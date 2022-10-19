@@ -1,0 +1,4 @@
+Responsive Gym Website made using HTML CSS & JavaScript which can run on all screen sizes.(has been taken care of)
+Contains animations when scrolling.
+Contains a form if you wish to be the part of gym fill all the details.
+Compatible with all mobile devices and with a beautiful and pleasant user interface.
